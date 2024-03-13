@@ -9,3 +9,5 @@
     - Mini-batch Gradient Descent (SGD) and Cross-Entropy loss.
 
 **CNN_MINST.ipynb**: 
+- Implement a Convolutional Neural Network (CNN) to improve the performance on the MINST dataset.
+- PyTorch inbuilt functions is utilized.
